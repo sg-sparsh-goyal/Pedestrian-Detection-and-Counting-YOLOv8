@@ -6,9 +6,9 @@ This project involves fine-tuning a pre-trained YOLOv8 model for pedestrian dete
 
 The project is divided into two main parts:
 
-### Fine-Tuning YOLOv8 for Pedestrian Detection
+### Training YOLOv8 for Pedestrian Detection
 
-- Used a pedestrian dataset to fine-tune a pre-trained YOLOv8 model.
+- Used a pedestrian dataset to train a YOLOv8 model.
 - Achieved reliable accuracy in detecting individuals in various environments.
 
 ### Counting Pedestrians
